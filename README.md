@@ -1,5 +1,4 @@
-# BlueBird_Banking
-### BlueBird Banking Personal Checkbook
+# BlueBird Banking
  
  Personal checkbook application that allows users to add delete and track transactions
  across mutliple multiple accounts
