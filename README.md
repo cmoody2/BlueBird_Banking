@@ -12,10 +12,11 @@
  
   ## Table of Contents
  * [Setting up the Environment](/README.md#setting-up-the-environment)
- * [Checkbook Templates, Static files, and URLs](/README.md#geometry-manager)
+ * [Checkbook Templates, Static files, and URLs](/README.md#checkbook-templates-static-files-and-urls)
  * [Models](/README.md#models)
  * [Creating Accounts and Transactions](/README.md#creating-accounts-and-transactions)
- * [Account Balance/Transaction information](/README.md#closing-thoughts)
+ * [Account Balance/Transaction information](/README.md#account-balancetransaction-information)
+ * [Closing Thoughts](/README.md#closing-thoughts)
  
 ## Setting up the Environment
 I began by setting up a virtual environment. I then installed Django and all the necessary modules. 
