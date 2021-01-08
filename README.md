@@ -10,6 +10,13 @@
  
  ![BlueBird Banking app](./readme_images/app_image.png)
  
+  ## Table of Contents
+ * [Setting up the Environment](/README.md#setting-up-the-environment)
+ * [Checkbook Templates, Static files, and URLs](/README.md#geometry-manager)
+ * [Models](/README.md#models)
+ * [Creating Accounts and Transactions](/README.md#creating-accounts-and-transactions)
+ * [Account Balance/Transaction information](/README.md#closing-thoughts)
+ 
 ## Setting up the Environment
 I began by setting up a virtual environment. I then installed Django and all the necessary modules. 
 After making sure my environment was set up correctly I created the project and and app within called "Checkbook".
