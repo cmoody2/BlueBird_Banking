@@ -45,4 +45,5 @@ Lastly I added a read function that allows the user to see balance/transaction i
 
 ![BlueBird Banking views](./readme_images/views_balance.png)
 
-
+## Closing Thoughts
+This project gave me a great opportunity to improve my skills using Django. The goal of this project is to convey my competency within Django but I would like to go more in depth past its current state by adding full CRUD functionality in the future. I would also like to add sign in and authentification functionality as well.
